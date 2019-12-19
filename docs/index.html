@@ -2,14 +2,21 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <title>Marked in the browser</title>
+  <title>プライバシーポリシー</title>
 </head>
 <body>
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     document.getElementById('content').innerHTML =
-      marked('# Marked in the browserRendered by **marked**.');
+marked(`
+# プライバシーポリシー
+
+### データ解析
+アプリの利便性向上のため、匿名で、個人を特定できない範囲に細心の注意を払い、アクセス解析をしております。
+例えば、アプリがクラッシュした時、どの部分でクラッシュしたかを匿名で送信し、バグの素早い修正に役立たせております。
+またデバイスやアプリバージョンの使用率、特定の機能の使用率などを解析し、アプリの改善に役立てています。
+`);
   </script>
 </body>
 </html>
