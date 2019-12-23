@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-               BuildableName = "&#x30b5;&#x30f3;&#x30d5;&#x309a;&#x30eb;&#x8a08;&#x7b97;&#x6a5f;.app"
+               BuildableName = "sample calculator.app"
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +31,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "&#x30b5;&#x30f3;&#x30d5;&#x309a;&#x30eb;&#x8a08;&#x7b97;&#x6a5f;.app"
+            BuildableName = "sample calculator.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -54,7 +54,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "&#x30b5;&#x30f3;&#x30d5;&#x309a;&#x30eb;&#x8a08;&#x7b97;&#x6a5f;.app"
+            BuildableName = "sample calculator.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -71,7 +71,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "97C146ED1CF9000F007C117D"
-            BuildableName = "&#x30b5;&#x30f3;&#x30d5;&#x309a;&#x30eb;&#x8a08;&#x7b97;&#x6a5f;.app"
+            BuildableName = "sample calculator.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
